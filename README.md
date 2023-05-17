@@ -16,7 +16,7 @@ I' m Alejandro de la Hera!
 
 - Study Abroad Program | Vilnius University
 
-##Skills
+## Skills
 
 - Problem-Solving: Skilled in identifying and solving complex problems with innovative solutions.
 - Adaptability: Quick learner, eager to embrace new technologies and adapt to dynamic environments.
