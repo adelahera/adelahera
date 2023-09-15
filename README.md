@@ -12,7 +12,7 @@ I' m Alejandro de la Hera!
 
 ## Education
 
-- Bachelor's Degree in Informatics Engineering and Business Administration | University of Granada
+- Bachelor's Degree in Computer Sciences and Business Administration | University of Granada
 
 - Study Abroad Program | Vilnius University
 
