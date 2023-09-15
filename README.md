@@ -2,7 +2,7 @@
 
 I' m Alejandro de la Hera!
 
-🎓 Student of Informatics Engineering and Business Administration at the University of Granada, with one year of study experience at Vilnius University. 
+🎓 Student of Computer Sciences and Business Administration at the University of Granada, with one year of study experience at Vilnius University. 
 
 🌱 I'm looking for options to further improve my knowledge while finishing my education.
 
